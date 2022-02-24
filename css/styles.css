@@ -247,3 +247,21 @@ header .textos h3 {
   float: left;
   text-align: center;
 }
+
+.main .mapa {
+  width: 100%;
+  overflow: hidden;
+}
+.main .mapa iframe {
+  width: 100%;
+}
+
+footer {
+  background: #000;
+}
+
+footer .copyright {
+  text-align: center;
+  color: #fff;
+  padding: 15px 0;
+}
